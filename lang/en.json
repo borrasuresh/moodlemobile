@@ -1,6 +1,7 @@
 {"about": "About",
 "activity": "Activity",
 "add": "Add",
+"appname" : "Toodle Mobile",
 "addcontact": "Add as contact",
 "addedtoqueue": "You are offline; your operation has been added to the task queue.",
 "addfakenotifications": "Add fake notifications",
@@ -241,6 +242,6 @@
 "yes": "Yes",
 "youarein": "You are in:",
 "yourpassword": "password",
-"yoursiteurl": "https://yourmoodle.com",
-"yourusername": "username",
+"yoursiteurl": "http://tmdezine.com/toodle",
+"yourusername": "naveen",
 "docsurl" : "http://docs.moodle.org/en/Mobile_app"}
